@@ -1,0 +1,2 @@
+# personal-portfolio
+My portfolio web project encapsulates my journey of learning and self-improvement, featuring an array of projects that I've undertaken during my continuous pursuit of excellence. By harmonizing HTML, CSS, JavaScript, and web design principles, I've created an engaging platform that succinctly presents the breadth and depth of my work. This digital compilation isn't just a static presentation; it's a dynamic representation of my learning curve and technical prowess.
